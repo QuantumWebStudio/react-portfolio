@@ -1,0 +1,10 @@
+import logo from './logo.png'
+import GraphicDesign from './graphicDesign.jpg'
+import WebDesign from './webdesign.jpg'
+import react from './react.svg'
+import teams from './team.jpg'
+import oranges from './oranges.jpg'
+import marketing from './marketing.jpg'
+import coffee from './coffee.jpg'
+import digitalMarketing from './digitalMarketing.jpg'
+export {logo,GraphicDesign,WebDesign, marketing , teams,react ,oranges,digitalMarketing,coffee }
